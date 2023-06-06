@@ -1,18 +1,22 @@
 #   CGPA Calculator Program in C++
 
 # Overview
-    This program calculates the CGPA (Cumulative Grade Point Average) for a student based on the grades obtained and credits associated with each course. It provides a step-by-step guide on how to compile or use the program.
+This program calculates the CGPA (Cumulative Grade Point Average) for a student based on the grades obtained and credits associated with each course. It provides a step-by-step guide on how to compile or use the program.
 
 # Prerequisites
-    -   Basic knowledge of C++ programming language.
-    -   C++ compiler installed on your system.
-    -   If you do not have any programming knowledge, please download and use one of the following compiler versions:
-        - WINDOWS: 
-            - x86 (32 bits):
-            - x64 (64 bits):
-            - Without libraries:
-        - LINUX: (Pending)
-        - MACOS: (Pending)
+-   Basic knowledge of C++ programming language.
+-   C++ compiler installed on your system.
+-   If you do not have any programming knowledge, please download and use one of the following compiler versions:
+    - WINDOWS: 
+  
+            - x86 (32 bits): https://github.com/wlbdo/CGPA-Calculator/blob/main/CPGA_Calculator-v1.0-x86.exe
+            
+            - x64 (64 bits): https://github.com/wlbdo/CGPA-Calculator/blob/main/CPGA_Calculator-v1.0-x64.exe
+           
+            - Without libraries: https://github.com/wlbdo/CGPA-Calculator/blob/main/CPGA_Calculator-v1.0-beta.exe
+   
+    - LINUX: (Pending)
+    - MACOS: (Pending)
 
 # Instructions
 
