@@ -57,10 +57,10 @@ Optionally, you can add the following features to enhance the program:
 -   Display individual grades: Allow the user to display the individual grades obtained in each course.
 
 # Usage
-1.- Compile the program using a C++ compiler.
-2.- Run the compiled program.
-3.- Follow the on-screen instructions to input the grades and credits for each course.
-4.- The program will calculate the GPA for the semester and display it.
+1.  Compile the program using a C++ compiler.
+2.  Run the compiled program.
+3.  Follow the on-screen instructions to input the grades and credits for each course.
+4.  The program will calculate the GPA for the semester and display it.
 
 # Contributions
 Contributions to this program are welcome. If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
